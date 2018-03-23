@@ -15,8 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'tpope/vim-unimpaired'
 Plugin 'pangloss/vim-javascript'
-
-
+Plugin 'bling/vim-airline'
 Plugin 'jiangmiao/auto-pairs'
 
 " All of your Plugins must be added before the following line
@@ -42,3 +41,4 @@ set tabstop=4
 set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
+set number
